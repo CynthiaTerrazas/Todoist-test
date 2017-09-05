@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="loginTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-09-05T18:03:42" hostname="at04vlma02" time="56.859">
+  <properties/>
+  <testcase name="testLogout" classname="loginTest" time="33.936"/>
+  <testcase name="testLoginSuccessfully" classname="loginTest" time="22.923"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.31.488763 (092de99f48a300323ecf8c2a4e2e7cab51de5ba8) on port 40170
+Only local connections are allowed.
+Sep 05, 2017 6:03:45 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+</testsuite>
